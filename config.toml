@@ -1,0 +1,6 @@
+baseURL = "http://jinyipeng.github.io/"
+languageCode = "en-us"
+title = "彭金义的博客"
+theme = "hyde"
+enableEmoji = true
+publishdir = "docs"
